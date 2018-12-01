@@ -10,3 +10,9 @@ server-ca.crt
 .cproject
 .project
 .settings/
+*.code-workspace
+
+#ignore my tmp and tools
+tmp/
+rsync_bin.sh
+hostserver
